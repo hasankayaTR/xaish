@@ -1,1 +1,3 @@
 # xaish
+
+demo: xaish.com
